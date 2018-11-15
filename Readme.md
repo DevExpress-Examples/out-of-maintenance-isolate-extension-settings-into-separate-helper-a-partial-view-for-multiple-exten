@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [GridType.cs](./CS/Models/GridType.cs) (VB: [GridType.vb](./VB/Models/GridType.vb))
+* [GridViewSettingsHelper.cs](./CS/Models/GridViewSettingsHelper.cs) (VB: [GridViewSettingsHelper.vb](./VB/Models/GridViewSettingsHelper.vb))
+* [Invoice.cs](./CS/Models/Invoice.cs) (VB: [Invoice.vb](./VB/Models/Invoice.vb))
+* [Product.cs](./CS/Models/Product.cs) (VB: [Product.vb](./VB/Models/Product.vb))
+* [Details.cshtml](./CS/Views/Home/Details.cshtml)
+* **[GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)**
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # Isolate extension settings into separate helper / a partial view for multiple extensions
 
 
